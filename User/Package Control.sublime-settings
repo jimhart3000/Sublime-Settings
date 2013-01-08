@@ -1,0 +1,19 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Auto Semi-Colon",
+		"Emmet",
+		"Git",
+		"Idoc",
+		"JsRun",
+		"Package Control",
+		"Prefixr",
+		"Pretty JSON",
+		"Sass",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tag",
+		"Theme - Soda"
+	]
+}
