@@ -3,7 +3,9 @@
 	"installed_packages":
 	[
 		"Auto Semi-Colon",
+		"Ciapre Color Scheme",
 		"Emmet",
+		"FileDiffs",
 		"Git",
 		"Idoc",
 		"JsRun",
