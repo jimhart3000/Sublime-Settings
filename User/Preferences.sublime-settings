@@ -1,5 +1,6 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai Soda.tmTheme",
+	"ensure_newline_at_eof_on_save": false,
 	"find_selected_text": true,
 	"font_face": "Source Code Pro",
 	"font_size": 14.0,
@@ -11,5 +12,6 @@
 	"tab_size": 4,
 	"theme": "Nil.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": false
+	"trim_trailing_white_space_on_save": true,
+	"detect_slow_plugins": false
 }

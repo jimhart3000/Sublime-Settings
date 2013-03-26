@@ -2,11 +2,14 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"ApacheConf.tmLanguage",
 		"Auto Semi-Colon",
+		"BracketHighlighter",
 		"Ciapre Color Scheme",
 		"Emmet",
 		"FileDiffs",
 		"Git",
+		"GitGutter",
 		"Idoc",
 		"JsRun",
 		"Package Control",

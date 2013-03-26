@@ -1,44 +1,24 @@
-# Ciapre.tmTheme
-Ciapre - an easy-on-the-eyes Sublime Text/ TextMate color scheme.
-* Updated: Now included in Sublime Package Control. Install it! :)
+# [Ciapre](http://vinhnx.github.com/Ciapre.tmTheme/)
 
-http://vinhnx.github.com/blog/2012/09/21/ciapre-sublime-text-color-scheme/
+***
 
-## Black (background) version
-![Ciapre Black](https://dl.dropbox.com/u/11357190/Shared%20Images/ciapre-new.PNG)
+an easy on the eyes Sublime Text/TextMate color scheme.
+Based on [Andro](https://github.com/cyrilmengin/andro) color scheme but with more syntax highlighting sweetness.
 
-![Ciapre Black](https://dl.dropbox.com/u/11357190/Shared%20Images/awesome%20ciapre%20black%20-%20sd.png)
+* Installation:
+Just search for `Ciapre` in Package Control & install it. :+1:
 
-## Default version
-![Ciapre](https://dl.dropbox.com/u/11357190/Shared%20Images/Ciapre%20ST%20theme%20preview%205%20-sd.PNG)
+Then, in menu bar, browse to `Preferences > Color Scheme` and choose your favo ... wait for it ... rite scheme in `Ciapre Color Scheme`!
 
+## Comes with two different colors  ##
+##### :star: Dark
+![Ciapre Black](https://raw.github.com/vinhnx/Ciapre.tmTheme/master/screenshot/ciapredark.png)
 
-# How to install & use
-## Via Package Control:
-Open Package Control and search for `Ciapre`, install it.
+##### :star: Blue
+![Ciapre](https://raw.github.com/vinhnx/Ciapre.tmTheme/master/screenshot/ciapreblue.png)
 
-Now in your beloved Sublime Text, open Preferences -> Color Scheme -> Ciapre > now you can choose either [Ciapre] or [Ciapre Black].
-
-Enjoy! :)
-
-## Manual way:
-Copy your desired tmTheme and paste it in Package folder.
-
-On Windows, it is located in C:\Users\YOUR-NAME\AppData\Roaming\Sublime Text 2\Packages
-
-Enter `User` folder, and paste it in.
-
-In your opened Sublime Text, browse to Preferences -> Color Scheme -> User -> Ciapre
-
--- 
-Or you can clone this in you Packages folder
-
-`git clone https://github.com/vinhnx/Ciapre.tmTheme.git`
-
-.. then activate via Preferences -> Color Scheme -> Ciapre.tmTheme
-
-*Tips: 
-Use great with [Aqua](https://github.com/cafarm/aqua-theme) theme - Prokit. 
+### *Tips* ###
+Use great with [Aqua](https://github.com/cafarm/aqua-theme) theme - Prokit.
 You won't be disappointed!
 
-~ Happy coding :)
+~ Happy coding & keep being awesome! ♥ :octocat::shipit:
